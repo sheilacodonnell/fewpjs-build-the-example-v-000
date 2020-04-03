@@ -40,7 +40,6 @@ function handleSuccess() {
 
 function hideModal() {
   modal.classList.add('hidden')
-  console.log('modal')
 }
 
 function handleUnlike() {
